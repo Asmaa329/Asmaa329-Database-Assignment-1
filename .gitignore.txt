@@ -1,0 +1,5 @@
+# draw.io backup and temporary files (must not be committed)
+*.bkp
+*.dtmp
+.$*.bkp
+.$*.dtmp
